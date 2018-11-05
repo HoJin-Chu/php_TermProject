@@ -1,0 +1,49 @@
+body {
+    zoom: 90%;
+}
+
+.container {
+    width: 1200px;
+    max-width: none !important;
+}
+
+.main {
+    margin-top: 100px;
+    box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.24);
+    background-color: darkgray;
+    width: 600px;
+    height: 520px;
+    max-width: none !important;
+    max-height: none !important;
+}
+
+.left-side {
+    background: #FFF;
+    padding: 3%;
+}
+
+form {
+    padding: 0px 30px 0px 30px;
+}
+
+.btn-block {
+    color: #FFF;
+}
+
+.box div {
+    display: inline-block;
+}
+
+div .col-sm-4 {
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 15px;
+}
+
+.Imgtitle {
+    border: 5px solid skyblue;
+}
